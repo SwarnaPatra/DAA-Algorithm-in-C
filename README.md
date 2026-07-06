@@ -80,5 +80,4 @@ This repository contains implementations of various **Data Structures and Algori
 
 This repository is for **educational purposes**. Feel free to use the code for learning.
 you are free to use, modify, and study the code for learning and academic projects.
-No commercial use is permitted without the author's permission.
 
